@@ -1,2 +1,2 @@
 # ftc-frc-scouting-2025
-A scouting app to create strategies in FTC competitions.
+Scouting apps to create strategies in FTC and FRC competitions.
